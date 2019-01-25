@@ -1,0 +1,39 @@
+{
+  "name": "react-native-web-scrollable-tab-view",
+  "version": "1.0.0",
+  "description": "Scrollable Tab View for react-native-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunon9/react-native-web-scrollable-tab-view.git"
+  },
+  "keywords": [
+    "react-native-web",
+    "scrollable-tab-view",
+    "swipeable-views",
+    "react-native"
+  ],
+  "author": "Varun Kumar <varunon9@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunon9/react-native-web-scrollable-tab-view/issues"
+  },
+  "homepage": "https://github.com/varunon9/react-native-web-scrollable-tab-view#readme",
+  "peerDependencies": {
+    "react": "^16.7.0",
+    "react-native": "^0.58.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react-swipeable-views": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-native": "^3.6.0"
+  }
+}
